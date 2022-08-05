@@ -1,0 +1,25 @@
+Road Map {
+  a. Belajar Git & GitHub
+  b. Kembali mempelajari HTML terbaru {HTML5}
+  c. Kembali mempelajari CSS SASS di beberapa bagian terakhir
+  d. Freamwork / Library {
+      - React.JS
+      - Vue.JS
+      - Bootstrap
+      - Tailwind
+      }
+  e. A.P.I
+}
+
+Tools {
+  - Perlu mencari, mempelajari, dan menyiapkan tools apa saja yang harus dipersiapkan
+}
+
+Proyek {
+  - Latihan membuat proyek [berupa website sederhana sampai ke kompleks]
+  - Cara mengupload hingga menjadi sebuah website sungguhan
+}
+
+Buat Portofolio {
+  - Lihat tutor lagi
+}

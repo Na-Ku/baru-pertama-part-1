@@ -2,7 +2,7 @@ Selain ini, kurang tau perlu belajar apa lagi
 
   - perlu mempelajari freamwork atau library baru? {
       * perlu mempelajari syntax JS yang baru yaitu ES6?
+          - ini nanti saja
       * freamwork lain itu menyesuaikan dengan permintaan pasar
           - Angular.JS
-          - dll.js
     }

@@ -9,6 +9,7 @@ Road Map {
       - Tailwind
       }
   e. A.P.I
+  f. Ada bagian yang lupa yang perlu dipelajari lagi (perlu dicari lagi)
 }
 
 Tools {
